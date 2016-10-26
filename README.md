@@ -80,6 +80,12 @@ https://inliner.cm/
 Host the images in your email online (and use their right URLs ofcourse).
 
 
+Preheader
+---------
+
+The preheader is in **_partials/preheader.kit** and contains text that appears after the subject line in a preview/notification in the inbox. Not creating a preheader means generally the first bit of text content gets used. This can be bad when areas like the web version link are first. The preheader can be visible, but in this partial it is only visible in the preview/notification in the inbox, and not in the email itself.
+
+
 Columns
 -------
 
