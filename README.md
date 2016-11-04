@@ -54,6 +54,12 @@ WeeMail has been tested to work on:
 *Rounded corners won't work here
 
 
+Outlook fonts fallback issue
+----------------------------
+
+Outlook font fallback sometimes doesn't work, resulting in text being rendered in times. This can happen with the $font_title and $font_btn specified in this template. Read how to fix this here: https://litmus.com/blog/typography-tips-for-email-designers
+
+
 Sending emails
 --------------
 
